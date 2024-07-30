@@ -155,13 +155,11 @@ img {
 .product__price {
   font-size: 20px;
 }
-
 .footer {
   background-color: #6cb9ab;
   padding: 60px 0;
   color: #fff;
 }
-
 .footer__container {
   display: grid;
   gap: 38px;
@@ -171,35 +169,24 @@ img {
 .footer__logo-link {
   font-size: 0;
 }
-.footer__logo {
-}
-.footer__nav {
-}
 .footer__menu {
-    display: flex;
-    align-items: center;
-    gap: 50px;
-}
-.footer__menu-item {
+  display: flex;
+  align-items: center;
+  gap: 50px;
 }
 .footer__menu-link {
   margin-bottom: 38px;
 }
-.footer__info {
-}
 .footer__copyright {
-font-size: 16px;
-margin-top: 0;
-margin-bottom: 17px;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 17px;
 }
 .footer__description,
-.footer__developer {  
+.footer__developer {
   margin-top: 0;
   margin-bottom: 3px;
-font-size: 16px;
-}
-
-.footer__contacts {
+  font-size: 16px;
 }
 .footer__email {
   display: inline-block;
@@ -209,8 +196,4 @@ font-size: 16px;
 .footer__social {
   display: flex;
   gap: 12px;
-}
-.footer__social__item {
-}
-.footer__social-link {
 }
